@@ -1,0 +1,20 @@
+.genel {
+	height: 900px;
+	width: 1340px;
+}
+.banner {
+	height: 150px;
+	width: 1340px;
+	background-color: #999999;
+	background-image:url(Banner.png)
+}
+.giris {
+	height: 550px;
+	width: 900px;
+	right: 400px;
+	margin-left: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: auto;
+	background-image: url(fatura.png);
+}
